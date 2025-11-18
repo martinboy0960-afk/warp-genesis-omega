@@ -1,0 +1,20 @@
+# Datos sensibles
+*.key
+*.pem
+*_private.txt
+config_secret.yaml
+claves/
+
+# Temporales
+*.tmp
+*.log
+.DS_Store
+*.aux
+*.log
+*.out
+
+# Grandes datasets
+datos/brutos/*.h5
+datos/brutos/*.bin
+*.zip
+*.tar.gz

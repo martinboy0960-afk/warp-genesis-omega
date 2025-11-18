@@ -1,0 +1,33 @@
+# Datos sensibles
+*.key
+*.pem
+*_private.txt
+config_secret.yaml
+claves/
+.env
+
+# Temporales  
+*.tmp
+*.log
+.DS_Store
+*.lock
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Datos grandes
+datos/brutos/*.h5
+datos/brutos/*.bin
+*.zip
+*.tar.gz
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python

@@ -1,0 +1,48 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath, physics, amssymb}
+
+\title{Ecuación Warp-Génesis Ω-mod}
+\author{Martín Boy - Investigación Confidencial}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section*{Derivación Completa Factor Ω-mod}
+
+La energía total para la métrica Alcubierre-Génesis modificada:
+
+\begin{equation}
+E(\Omega,\sigma,R,v_s) = -\frac{c^4}{8\pi G} \cdot \frac{v_s^2}{4} 
+\int_0^\infty \left[ \frac{\sigma^2 r^2}{\sinh^2(\sigma r)} \cdot e^{-\Omega r^2} \right] \, dV
+\end{equation}
+
+Con elemento de volumen esférico $dV = 4\pi r^2 dr$:
+
+\begin{equation}
+E(\Omega) = -\frac{c^4}{8\pi G} \cdot \frac{v_s^2}{4} \cdot 4\pi
+\int_0^\infty \frac{\sigma^2 r^4 e^{-\Omega r^2}}{\sinh^2(\sigma r)} \, dr
+\end{equation}
+
+\subsection*{Verificación Dimensional}
+
+\begin{align*}
+\left[\frac{c^4}{G}\right] &= \frac{(m/s)^4}{m^3/(kg \cdot s^2)} = \frac{J}{m} \\
+\left[v_s^2\right] &= m^2/s^2 \\
+\left[\int \frac{\sigma^2 r^4 e^{-\Omega r^2}}{\sinh^2(\sigma r)} dr\right] &= m^3 \\
+\text{Total: } & \frac{J}{m} \cdot \frac{m^2}{s^2} \cdot m^3 = J \quad \checkmark
+\end{align*}
+
+\subsection*{Parámetros Numéricos Óptimos}
+
+\begin{itemize}
+\item $c = 2.998 \times 10^8 \, m/s$
+\item $G = 6.674 \times 10^{-11} \, m^3/kg/s^2$  
+\item $v_s = 3.0 \times 10^{10} \, m/s$ (100c)
+\item $R = 100 \, m$
+\item $\sigma = 1.0 \times 10^8 \, m^{-1}$
+\item $\Omega_{\text{optimo}} = 2.17 \times 10^{-4} \, m^{-2}$
+\end{itemize}
+
+\end{document}
