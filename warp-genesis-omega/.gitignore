@@ -1,4 +1,40 @@
-# Datos sensibles
+# Secrets and local environments
+*.key
+*.pem
+*.wallet
+.env
+.env.*
+secrets/
+gnupg/
+__pycache__/
+*.pyc
+
+# Logs and artifacts
+logs/
+artifacts/
+dist/
+build/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/# Secrets and local environments
+*.key
+*.pem
+*.wallet
+.env
+.env.*
+secrets/
+gnupg/
+__pycache__/
+*.pyc
+
+# Logs and artifacts
+logs/
+artifacts/
+dist/
+build/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/# Datos sensibles
 *.key
 *.pem
 *_private.txt
