@@ -1,4 +1,53 @@
+cat > README.md << 'EOF'
 # 🔬 Warp-Génesis Ω - Hacia una métrica Alcubierre experimentalmente falsable
+
+**Investigador principal**: Martín Boy  
+**Contacto directo**:  
+**Teléfono / Signal**: +52 333 982 7237  
+**WhatsApp**: +52 668 540 7829  
+**Email**: martinboy0960@gmail.com  
+**GitHub**: martinboy0960-afk  
+**Fecha**: 21 de noviembre de 2025
+
+## Resumen público
+Modificación Ω de la métrica Alcubierre-Salas que combina:
+- Reducción drástica de los requisitos energéticos mediante contención Casimir dinámica rotatoria
+- Factor de forma escalable desde vehículos tripulados compactos hasta naves interestelares
+- Predicciones falsables cuantitativas en ≤ 3 ensayos independientes
+
+**Todo el contenido actual es teórico y está sujeto a refutación empírica.**
+
+## Versiones del proyecto (progreso interno)
+
+| Versión              | Masa aproximada   | Diámetro burbuja | Estado actual (nov 2025)                       | Acceso                                                    |
+|----------------------|-------------------|------------------|------------------------------------------------|-----------------------------------------------------------|
+| Génesis-Mini         | ≈ 385 kg          | 9–10 m           | Diseño final + lista de materiales + Gantt     | Bajo NDA + propuesta económica y titularidad seria       |
+| Génesis v7 Esférico  | Decenas toneladas | 50–120 m         | Simulaciones completas + rutas interestelares  | Solo con acuerdo formal de colaboración                   |
+
+## Principio de falsabilidad (Popper puro)
+Todas las versiones incluyen predicción numérica exacta, intervalo de tolerancia reducido y refutación en máximo 3 ensayos replicados.
+
+## Contacto para solicitantes serios e instituciones
+
+- Inversores privados → acuerdo económico + titularidad  
+- Universidades / laboratorios nacionales / instituciones académicas → colaboración formal con mención explícita y co-autoría en todas las publicaciones y desarrollos futuros  
+- Empresas aeroespaciales / agencias → licencias o desarrollo conjunto
+
+**Solo propuestas serias con presupuesto real y NDA.**  
+Llama o WhatsApp directamente (respondo en < 5 minutos):  
+**+52 333 982 7237** (voz / Signal)  
+**+52 668 540 7829** (WhatsApp)
+
+Asunto email obligatorio: “Propuesta Warp-Génesis Ω – NDA”
+
+---
+*No respondo curiosos ni teóricos sin fondos.  
+Aquí se hace historia o no se hace.*
+EOF
+
+git add README.md
+git commit -m "refactor(readme): Versión pública estratégica final - contacto directo + apertura instituciones serias"
+git push# 🔬 Warp-Génesis Ω - Hacia una métrica Alcubierre experimentalmente falsable
 
 **Investigador principal**: Martín Boy  
 **Contacto directo**:  
