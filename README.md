@@ -1,6 +1,6 @@
 # WARPCORE – Alcubierre-Salas Warp Drive 2025
 **La primera métrica warp estable y construible antes de 2040**
-
+https://zenodo.org/records/17668611
 **Cóctel antiedad complementario ya publicado y verificado (-18.4 años en humanos):**
 https://doi.org/10.5281/zenodo.17668611  
 https://zenodo.org/records/17668611
@@ -16,9 +16,6 @@ Martín Alonso Salas Vallejo – 21 noviembre 2025# WARPCORE – Alcubierre-Sala
 Autor: Martín Alonso Salas Vallejo  
 Guadalajara, México – 21 noviembre 2025  
 
-Paper completo (DOI oficial):  
-https://zenodo.org/doi/10.5281/zenodo.xxxxxxx (reemplaza con tu DOI real cuando lo tengas)  
-o https://www.researchgate.net/publication/xxxxxxx  
 
 ### Lo que resuelve esta versión (Alcubierre-Salas 2025):
 - Eliminación TOTAL de energía exótica negativa  
