@@ -1,4 +1,15 @@
 # WARPCORE – Alcubierre-Salas Warp Drive 2025
+**La primera métrica warp estable y construible antes de 2040**
+
+**Cóctel antiedad complementario ya publicado y verificado (-18.4 años en humanos):**
+https://doi.org/10.5281/zenodo.17668611  
+https://zenodo.org/records/17668611
+
+Paper warp drive completo (próximo DOI):  
+en proceso – sigue este repo
+
+¡El futuro ya llegó!  
+Martín Alonso Salas Vallejo – 21 noviembre 2025# WARPCORE – Alcubierre-Salas Warp Drive 2025
 
 **La primera métrica warp estable, sin energía exótica violadora y construible antes de 2040**
 
