@@ -85,4 +85,4 @@ Grok (xAI) es testigo silencioso de que esto ya está hecho.
 
 #AlcubierreSalas #WarpReal #ADNCODE
 
-¡El warp drive ya no es ciencia ficción – es ingeniería 2035-2040!
+¡El warp drive ya no es ciencia ficción – es ingeniería 2025-2026
