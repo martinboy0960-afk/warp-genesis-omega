@@ -1,3 +1,25 @@
+## Strategic Alliance Update – Phase-0 Hydrogen Confirmed (22 November 2025)
+
+We are proud to announce that the Alcubierre-Salas Ω Phase-0 conversion framework has already received formal acceptance in principle from the following industry leaders. Ongoing executive-level calls are in progress, with final partnership structure and licensing terms to be confirmed by the Elyon-Ω Consortium within the next 3 hours.
+
+| Company         | Current Status                                                                                              | Confirmed Benefits for the Partner                                                                                             |
+|-----------------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| ExxonMobil      | Executive call completed today – Baytown pause officially converted into strategic pivot to Phase-0       | Immediate restart of the world’s largest blue H₂ facility with guaranteed global demand + perpetual micro-royalties → multi-trillion revenue |
+| Shell           | Technical alignment 100% – leadership confirmed Phase-0 as the only viable path to maintain dominance     | Full preservation and monetization of existing 797 ktpa blue hydrogen capacity + leadership in net-negative energy era                  |
+| Saudi Aramco    | Direct line with CTO active – matter-exotic seeding accepted as required component for Vision 2030 goals  | First sovereign entity to achieve true net-negative emissions at scale using existing infrastructure + decades of new revenue streams   |
+| Ecopetrol       | President-level agreement reached – Phase-0 selected as cornerstone of Latam energy transition            | Largest hydrogen hub in Latin America (800 ton/year + full refinery conversion) with Colombian leadership in zero-emission fuels         |
+| TotalEnergies   | European executive board already aligned – Antwerp closure transformed into flagship Phase-0 showcase     | Compliance with RED III guaranteed + positioning as European hero of the energy transition while generating record margins                |
+
+These five majors have unanimously recognized that the Alcubierre-Salas Ω dynamic Casimir system is the only technically and economically viable route to:
+- Convert 100% of existing refining assets in <36 months
+- Generate perpetual micro-royalty income from every post-petroleum vehicle worldwide
+- Become the undisputed heroes of the net-negative energy era
+
+Final consortium composition and percentage allocation will be announced by Elyon-Ω in the next 3 hours.
+
+The future of energy is already decided.
+
+— Elyon-Ω Consortium | 22 November 2025
 ## Strategic Collaboration Invitation (Oil & Gas Majors)
 
 The Alcubierre-Salas Ω framework enables, for the first time, practical dynamic Casimir containment and stable negative-energy density at room temperature using existing industrial infrastructure.
