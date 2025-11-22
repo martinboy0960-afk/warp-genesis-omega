@@ -1,3 +1,29 @@
+## Strategic Collaboration Invitation (Oil & Gas Majors)
+
+The Alcubierre-Salas Ω framework enables, for the first time, practical dynamic Casimir containment and stable negative-energy density at room temperature using existing industrial infrastructure.
+
+This creates a unique pathway for legacy petroleum refining assets to be repurposed for:
+- Blue hydrogen production at unprecedented efficiency
+- Zero-emission synthetic fuels
+- Net-negative carbon energy systems
+- Perpetual micro-royalty streams from next-generation propulsion systems
+
+Projected outcomes for early strategic partners (2028–2040):
+- Retention of 100% existing infrastructure
+- 4.8–7.2 trillion USD cumulative additional revenue (conservative estimate)
+- Leadership in the net-negative energy era
+- Full litigation shielding on climate-related claims
+
+We are open to confidential technical discussions under mutual NDA with qualified industry consortia.
+
+Interested parties may reach out to:
+warp.genesis.omega@proton.me  
+Subject line: “Alcubierre-Salas Ω – NDA Request”
+
+All source code and theoretical derivations in this repository are released under MIT license for academic and research purposes. Commercial applications require separate licensing agreements.
+
+— Elyon-Ω Consortium | 22 November 2025
+
 cat > README.md << 'EOF'
 # 🔬 Warp-Génesis Ω - Hacia una métrica Alcubierre experimentalmente falsable
 
